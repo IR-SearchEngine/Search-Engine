@@ -14,6 +14,3 @@ we implemented a search engine using Spring boot and python with features below:
 
 -UI-> which implemented by html,css,js  
 
-# key technical challenges:
-
-unclean urls , some websites don’t get permission to the crawler  to crawl, unnecessary text in title tags and link text, slow load time, high search time, performance, speed, finding the relevant answer, spell correction and context sensitive, Duplicate data, memory-performace
